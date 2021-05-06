@@ -8,7 +8,6 @@
 - 🏋‍♂️️ I also force myself to go to the gym every day (Sadly I don't succeed often)
 
 ### My networks:
-
 [<img align="left" alt="betocosta's porftolio website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://betocostadev.github.io/)
 [<img align="left" alt="betocosta's Coders rank" width="22px" src="https://simpleicons.org/icons/codersrank.svg" />](https://profile.codersrank.io/user/betocostadev)
 [<img align="left" alt="betocosta's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/robertomcosta/)
@@ -20,28 +19,15 @@
 ---
 
 
-### Languages and Tools:
+### Skillset:
 
-![](https://img.shields.io/static/v1?label=Windows&message=WSL&style=flat&logo=windows-terminal&logoColor=white&color=blue)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=999999)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/static/v1?label=Code&message=Typescript&style=flat&logo=typescript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)
-![](https://img.shields.io/static/v1?label=Code&message=ReactJS&style=flat&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
-![](https://img.shields.io/static/v1?label=Code&message=Express&style=flat&logo=express&logoColor=white&color=brightgreen)
-![](https://img.shields.io/static/v1?label=Code&message=GraphQL&style=flat&logo=graphql&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-Stylus-informational?style=flat&logo=stylus&logoColor=white&color=333333)
-![](https://img.shields.io/static/v1?label=Code&message=Styled-components&style=flat&logo=styled-components&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
-![](https://img.shields.io/static/v1?label=Cloud&message=Heroku&style=flat&logo=heroku&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
-![](https://img.shields.io/static/v1?label=CI/CD&message=Github-Actions&style=flat&logo=github-actions&logoColor=white&color=important)
+| Languages   | Frameworks  | Cloud    |
+| :---------: |:-----------:| :-------:|
+|![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E) ![](https://img.shields.io/static/v1?label=Code&message=Typescript&style=flat&logo=typescript&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Stylus-informational?style=flat&logo=stylus&logoColor=white&color=333333) ![](https://img.shields.io/static/v1?label=Code&message=Styled-components&style=flat&logo=styled-components&logoColor=white&color=blue) | ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D) ![](https://img.shields.io/static/v1?label=Code&message=ReactJS&style=flat&logo=react&logoColor=white&color=blue) ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933) ![](https://img.shields.io/static/v1?label=Code&message=Express&style=flat&logo=express&logoColor=white&color=brightgreen) ![](https://img.shields.io/static/v1?label=Code&message=Apollo&style=flat&logo=apollo-graphql&logoColor=white&color=informational) | ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28) ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E) ![](https://img.shields.io/static/v1?label=Cloud&message=Heroku&style=flat&logo=heroku&logoColor=white&color=blueviolet)
+| **OSes**        | **Tools**       | **Others**    |
+| ![](https://img.shields.io/static/v1?label=Windows&message=WSL&style=flat&logo=windows-terminal&logoColor=white&color=blue) ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=999999) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624) | ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032) ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717) ![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25) | ![](https://img.shields.io/static/v1?label=CI/CD&message=Github-Actions&style=flat&logo=github-actions&logoColor=white&color=important) ![](https://img.shields.io/static/v1?label=DB&message=MongoDB&style=flat&logo=mongodb&logoColor=white&color=yellowgreen) ![](https://img.shields.io/static/v1?label=Code&message=GraphQL&style=flat&logo=graphql&logoColor=white&color=blueviolet)
+
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
