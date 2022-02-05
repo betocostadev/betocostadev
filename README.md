@@ -3,8 +3,8 @@
 ## I'm a very curious person who happens to write code for a living!
 - 👨‍💻 I'm currently working as a front-end developer @[Take 5](https://take5lms.com/)
 - 👨‍🏭️ I'm working mostly with Vue.js and Quasar.js
-- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using React, React Native, Node.js, Express, GraphQL, MongoDB, and more.
-- 🇧🇷👾️ I'm a Brazilian, born in 86, working with IT, learning IT, and reading, playing games, and listening to podcasts when I have some time.
+- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using React, Redux, React Native, Node.js, Express, GraphQL, MongoDB, and more.
+- 🇧🇷👾️ I'm a Brazilian, born in 86, working with IT, and always learning IT & Development. I also enjoy reading, playing games, and listening to podcasts when I have some time.
 - 🏋‍♂️️ I also force myself to go to the gym every day (Sadly I don't succeed often)
 
 ### My networks:
