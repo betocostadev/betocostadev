@@ -2,8 +2,10 @@
 
 ## I'm a very curious person who happens to write code for a living!
 - 👨‍💻 I'm currently working as Tech Lead and Front-End developer @[Take 5](https://take5lms.com/) Group.
-- 👨‍🏭️ I'm working mostly on the Front-end with some projects like an Admin panel using Vue 2 and Quasar.js. A game-like LMS using Vue 3 with Tailwind CSS. An LMS using Vue 3, and Quasar.js, and also a new React Native App using Native-Base, Redux Toolkit, and RTK Query.
-- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using React, React Native, and I learn something about A.I. using Python.
+- 👨‍🏭️ I'm working mostly on the Front-end with some projects like an Admin panel using Vue 2 and Quasar.js. I built a big game-like LMS using Vue 3 with Tailwind CSS.
+- 👷🏻 I'm maintaining and adding features to an LMS using Vue 3, and Quasar.js
+- 📱 I'm leading the development of a new React Native App using Native-Base, Redux Toolkit, and RTK Query.
+- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using TypeScript with React, and React Native, adding Unit Tests, trying CI/CD, and more.
 - 🇧🇷👾️ I'm a Brazilian, born in 86, working with IT, learning IT, and I also like to spend time reading books, playing games, and listening to podcasts.
 - 🏋‍♂️️ I also force myself to go to the gym every day (Sadly I don't succeed often)
 
