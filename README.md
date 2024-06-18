@@ -1,11 +1,12 @@
 ### Hello, I'm [Beto](https://betocostadev.github.io/) 🤓
 
 ## I'm a very curious person who happens to write code for a living!
-- 👨🏻‍💻 I've worked as a Tech-lead applying Agile Methodologies at Take 5 Group.
+- 👨🏻‍💻 I've worked as a Tech-lead Software Engineer applying Agile Methodologies at Take 5 Group.
 - 📱 I've led the development of a React Native App using Native-Base, Redux Toolkit, and RTK Query.
-- 👨‍🏭️ I've worked mostly on the Front-end with some projects like an Admin panel using Vue 2, Vue 3, Vuex and Quasar.js. I built a big game-like LMS using Vue 3 with Tailwind CSS.
-- 👷🏻 I've fixed and added features to an LMS using Vue 3, and Quasar.js
-- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using TypeScript with React, and React Native, adding Unit Tests, trying CI/CD, and more.
+- 👨‍🏭️ I've worked mostly on the Front-end with some projects like a big Admin panel using Vue 2, Vue 3, Vuex and Quasar.js.
+- 🎮 I built a big game-like Learning Management System using Vue 3 with Tailwind CSS.
+- 👷🏻 I've fixed and added features to a LMS using Vue 3, and Quasar.js
+- 👨‍🎓️ I enjoy learning how stuff works. In my spare time, I study and create side-projects using TypeScript with React, and React Native, adding Unit Tests, learning CI/CD, and more.
 - 🇧🇷👾️ I'm a Brazilian, born in 86, working with IT, learning IT, and I also like to spend time reading books, playing games, and listening to podcasts.
 - 🏋‍♂️️ I also force myself to go to the gym every day (Sadly I don't succeed often)
 
